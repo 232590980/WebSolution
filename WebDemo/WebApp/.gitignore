@@ -1,0 +1,29 @@
+# exclude folder
+/.tscache
+/.sass-cache
+/.vscode
+/bin
+/build
+/dist
+/node_modules
+/nuget_packages
+/obj
+/Properties
+/typings
+/vendor
+
+# exclude CSS, js and map files
+*.css
+*.js
+*.js.map
+
+# allow the following js files
+!server.js
+!Gruntfile.js
+!karma.conf.js
+!test-main.js
+
+##### these should be in the root .gitignore
+*.GhostDoc.xml
+*.pdb
+*.suo
