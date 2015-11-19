@@ -1,0 +1,5 @@
+
+##### these should be in the root .gitignore
+*.suo
+*.user
+*.dbmdl

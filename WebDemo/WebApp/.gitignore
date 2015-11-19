@@ -16,6 +16,7 @@
 *.css
 *.js
 *.js.map
+*.user
 
 # allow the following js files
 !app.js
